@@ -1,0 +1,11 @@
+openai
+psycopg2-binary
+neo4j
+chromadb
+python-dotenv
+notebook
+langchain
+langchain-openai
+langchain_community
+langchain-experimental
+langgraph
